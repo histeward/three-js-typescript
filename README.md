@@ -35,7 +35,7 @@ Adams head:
 https://sketchfab.com/3d-models/adam-head-a7d347b738c041579a8790f539fe0d8f
 
 
-## Intension of this repo
+## Intention of this repo
 
 I was having a hard time getting three js to work as a component in Svelte using
 typescript. Instead of constantly breaking my brain on every single bug I felt
